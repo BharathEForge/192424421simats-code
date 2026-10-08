@@ -1,420 +1,182 @@
-# Featured Projects
-
-> A portfolio of real-world AI, Machine Learning, Full-Stack and Data-driven systems developed to solve practical problems across education, healthcare, agriculture, sustainability and campus operations.
-
----
-
-## 01 — EDU-PIVOT
-
-### Intelligent Adaptive Learning & Dropout-Risk Intervention System
-
-**Domain:** AI · EdTech · Predictive Analytics · Recommendation Systems
-
-EDU-PIVOT is an intelligent learning system designed to identify students who may be losing engagement, estimate their dropout risk, and recommend personalized interventions and future learning or career pathways.
-
-### Core Intelligence
-
-**Attendance + Assessments + Engagement + Emotional Signals**
-→ **Student Performance Analysis**
-→ **Dropout-Risk Prediction**
-→ **Personalized Intervention**
-→ **Learning & Career Pathway Recommendation**
-
-### Key Features
-
-* Dropout-risk scoring using multiple student signals
-* Attendance and assessment analysis
-* Engagement and behavioural signal analysis
-* Personalized intervention recommendations
-* Learning progress monitoring
-* Career-domain and learning-pathway recommendations
-* Student performance insights for educators
-
-### Why It Matters
-
-Instead of identifying disengagement only after a student drops out, EDU-PIVOT focuses on **early detection and intervention**.
-
-**Built with:** `AI` `Machine Learning` `Predictive Analytics` `React` `Data Analysis`
-
----
-
-# 02 — PediPredict
-
-### Pediatric Dental Cooperation & Anxiety Prediction System
-
-**Domain:** Healthcare AI · Machine Learning · Computer Vision
-
-PediPredict is a healthcare-oriented machine learning application designed to estimate pediatric dental anxiety and cooperation risk using questionnaire responses, facial expressions and motion-related behavioural signals.
-
-### Intelligence Pipeline
-
-**Patient Questionnaire + Facial Signals + Motion Detection**
-→ **Feature Extraction**
-→ **ML Prediction**
-→ **Anxiety & Cooperation Risk**
-→ **Patient History**
-→ **Treatment Planning Support**
-
-### Key Features
-
-* Pediatric dental anxiety prediction
-* Cooperation-risk classification
-* Questionnaire-based assessment
-* Facial-expression analysis
-* Motion detection
-* Patient history tracking
-* Clinical decision-support insights
-
-### Why It Matters
-
-The system aims to provide dentists with an additional data-driven indication of a child's behavioural risk before and during treatment.
-
-**Built with:** `Python` `Machine Learning` `Computer Vision` `OpenCV` `TensorFlow` `Predictive Modelling`
-
----
-
-# 03 — AI Smart Agriculture System
-
-### Intelligent Crop Disease, Irrigation & Fertilizer Recommendation Platform
-
-**Domain:** AI · AgriTech · Computer Vision · Predictive Analytics
-
-An AI-powered agriculture system designed to help farmers identify crop diseases and make better irrigation and fertilizer decisions using crop images, soil conditions, weather information and market data.
-
-### Intelligence Pipeline
-
-**Crop Image + Soil Data + Weather Data + Market Data**
-→ **Crop Disease Detection**
-→ **Agricultural Condition Analysis**
-→ **Irrigation Recommendation**
-→ **Fertilizer Recommendation**
-→ **Actionable Farming Insight**
-
-### Key Features
-
-* Image-based crop disease detection
-* Soil condition analysis
-* Weather-aware recommendations
-* Irrigation guidance
-* Fertilizer recommendations
-* Agricultural market intelligence
-
-### Why It Matters
-
-The system combines multiple agricultural signals instead of relying only on visual disease detection, creating a broader decision-support approach for farming.
-
-**Built with:** `AI` `Machine Learning` `Computer Vision` `Python` `Predictive Analytics`
-
----
-
-# 04 — AI Food & Grocery Assistant
-
-### Intelligent Expiry Detection, Recipe Recommendation & Food Donation System
-
-**Domain:** AI · Computer Vision · Sustainability · Food Waste Reduction
-
-An AI-powered food management system designed to identify food items and expiry status and intelligently route them toward **Consume, Donate or Compost** decisions.
-
-### Decision Pipeline
-
-**Food Image / Item Information**
-→ **Food Recognition**
-→ **Expiry Analysis**
-→ **Decision Engine**
-→ **CONSUME / DONATE / COMPOST**
-
-### Key Features
-
-* Food-item recognition
-* Expiry-status detection
-* Recipe recommendations
-* Food donation guidance
-* Compost recommendations
-* Food-waste reduction workflow
-
-### Why It Matters
-
-The system connects food recognition with an action-oriented decision process rather than stopping at simple image classification.
-
-**Built with:** `AI` `Image Recognition` `Computer Vision` `Recommendation Systems`
-
----
-
-# 05 — Hostel OS
-
-### Intelligent Hostel Management & Operations Platform
-
-**Domain:** Full-Stack Development · Smart Campus · Data Management
-
-Hostel OS is a role-based digital platform designed to manage major hostel operations for students, wardens and administrators.
-
-### System Workflow
-
-**Student / Warden / Admin**
-→ **Authentication & Role Management**
-→ **Hostel Operations Dashboard**
-→ **Room / Attendance / Leave / Complaint / Mess Management**
-→ **Operational Insights**
-
-### Key Features
-
-* Role-based access
-* Room allocation management
-* Student attendance
-* Leave management
-* Complaint management
-* Mess management
-* Administrative dashboards
-
-### Why It Matters
-
-Hostel OS brings multiple hostel operations into one centralized platform, reducing fragmented manual processes.
-
-**Built with:** `Full-Stack Development` `Database Systems` `Role-Based Access` `Dashboard Analytics`
-
----
-
-# 06 — Smart Campus
-
-### Unified Campus Operations & Analytics Platform
-
-**Domain:** Full-Stack Development · Education Technology · Analytics
-
-Smart Campus is a unified digital platform designed to bring important campus activities and operational information into centralized dashboards.
-
-### System Workflow
-
-**Campus Data**
-→ **Centralized Platform**
-→ **Operational Processing**
-→ **Analytics Dashboard**
-→ **Actionable Campus Insights**
-
-### Key Features
-
-* Event management
-* Attendance tracking
-* Complaint management
-* Facility monitoring
-* Centralized dashboards
-* Data-driven campus insights
-
-### Why It Matters
-
-The platform focuses on transforming scattered campus information into structured data and actionable operational insights.
-
-**Built with:** `Full-Stack Development` `Data Analytics` `Dashboards` `Database Systems`
-
----
-
-# 07 — Smart Medicine & Pharmacy Finder
-
-### Emergency Medicine Availability & Pharmacy Discovery System
-
-**Domain:** C++ · Data Structures & Algorithms · Healthcare Technology
-
-A C++-based emergency medicine discovery system designed to quickly identify medicine availability and prioritize suitable pharmacies based on stock, price and emergency priority.
-
-### Search Architecture
-
-**Medicine Request**
-→ **Hash-Based Medicine Lookup**
-→ **Availability Verification**
-→ **Pharmacy Ranking**
-→ **Emergency Recommendation**
-
-### Core Algorithms
-
-* Hash-based medicine lookup
-* Efficient searching
-* Pharmacy ranking
-* Availability matching
-* Priority-based selection
-
-### Key Features
-
-* Fast medicine search
-* Stock availability lookup
-* Pharmacy discovery
-* Price comparison
-* Emergency prioritization
-
-### Why It Matters
-
-In emergency situations, the system focuses on reducing the time required to locate an available medicine and suitable pharmacy.
-
-**Built with:** `C++` `Data Structures` `Searching` `Hashing` `Algorithms`
-
----
-
-# 08 — Neer Nilam
-
-### Data-Driven Water & Land Management System
-
-**Domain:** Data Analysis · Environment · Agriculture · Sustainability
-
-Neer Nilam is a data-driven system that analyzes rainfall, soil moisture and water availability to support better irrigation planning and water conservation.
-
-### Data Pipeline
-
-**Rainfall Data + Soil Moisture + Water Availability**
-→ **Data Analysis**
-→ **Environmental Pattern Detection**
-→ **Irrigation Guidance**
-→ **Water Conservation Insights**
-
-### Key Features
-
-* Rainfall analysis
-* Soil moisture analysis
-* Water availability assessment
-* Irrigation guidance
-* Water conservation insights
-* Data-driven environmental decision making
-
-### Why It Matters
-
-Neer Nilam focuses on using environmental data to support more efficient water utilization and sustainable land management.
-
-**Built with:** `Python` `Pandas` `NumPy` `Data Analysis` `Visualization`
-
----
-
-# 09 — Smart Blood Donation System
-
-### Intelligent Blood Donor & Blood-Bank Matching Platform
-
-**Domain:** Healthcare · Full-Stack Development · Data Management
-
-A full-stack blood donation platform designed to connect patients with suitable donors and available blood-bank stock while prioritizing urgent requests.
-
-### Matching Workflow
-
-**Patient Request**
-→ **Blood Group Matching**
-→ **Donor / Blood-Bank Search**
-→ **Priority Analysis**
-→ **Alert & Matching**
-
-### Key Features
-
-* Blood-group based donor matching
-* Blood-bank stock management
-* Emergency request prioritization
-* Donor discovery
-* Patient requirement tracking
-* Alert-based communication
-
-### Why It Matters
-
-The system focuses on reducing the gap between urgent blood requirements and available donor or blood-bank resources.
-
-**Built with:** `Full-Stack Development` `Database Systems` `Matching Algorithms` `Healthcare Technology`
-
----
-
-# Capstone-Level Project Portfolio
-
-| Project                              | Domain               | Primary Engineering Focus                    |
-| ------------------------------------ | -------------------- | -------------------------------------------- |
-| **EDU-PIVOT**                        | EdTech               | AI, Dropout Prediction, Recommendation       |
-| **PediPredict**                      | Healthcare           | ML, Computer Vision, Risk Prediction         |
-| **AI Smart Agriculture**             | AgriTech             | Computer Vision, Prediction, Recommendations |
-| **AI Food & Grocery Assistant**      | Sustainability       | Image Recognition, Expiry Intelligence       |
-| **Hostel OS**                        | Smart Campus         | Full-Stack, Role-Based Management            |
-| **Smart Campus**                     | Education Technology | Full-Stack, Analytics, Dashboards            |
-| **Smart Medicine & Pharmacy Finder** | Healthcare           | C++, Searching, Hashing, DSA                 |
-| **Neer Nilam**                       | Environment          | Data Analysis, Water Intelligence            |
-| **Smart Blood Donation System**      | Healthcare           | Matching, Full-Stack, Alerts                 |
-
----
-
-# What These Projects Demonstrate
-
-### Artificial Intelligence
-
-`Machine Learning` `Predictive Modelling` `Computer Vision` `Recommendation Systems`
-
-### Software Engineering
-
-`Full-Stack Development` `Role-Based Systems` `Dashboards` `Database Management`
-
-### Data & Analytics
-
-`Python` `Pandas` `NumPy` `EDA` `Data Visualization` `Power BI` `Excel`
-
-### Algorithms
-
-`C++` `Searching` `Hashing` `Data Structures` `Priority-Based Matching`
-
-### Real-World Domains
-
-`Healthcare` `Education` `Agriculture` `Sustainability` `Smart Campus`
-
----
-
-# Capstone & Innovation Profile
-
-My projects are built around a common engineering principle:
-
-> **Identify a real problem → understand the data → design the intelligence → build the system → evaluate the result → create practical impact.**
-
-The portfolio currently covers **5+ real-world problem areas**, including education, healthcare, agriculture and campus operations, using AI, machine learning, computer vision, predictive analytics and full-stack development.
-
----
-
-# Hackathons & Innovation Exposure
-
-* MGR University — Hackathon
-* Bengaluru AI — Hackathon
-* Gen AI Hackathon
-* Prompts War — Participant
-
-These experiences complement the project portfolio with practical exposure to rapid problem-solving and AI-focused innovation.
-
----
-
-# Certifications & Learning
-
-* Salesforce Trailhead — LLM and AI Training
-* Microsoft Azure AI Engineer Associate
-* DeepLearning.AI Certification
-* Hugging Face — Deep Reinforcement Learning & NLP
-* Deep Reinforcement Learning
-* Generative AI
-* Python
-* Java
-* Power BI
-* Pandas & Excel
-
----
-
-# Project Philosophy
-
 <div align="center">
 
-### REAL PROBLEM
+# BHARATH E.
 
-↓
+### AI & Data Science | Machine Learning | AI Engineering
 
-### DATA
+Building practical AI systems for real-world problems across
+**Healthcare · Education · Agriculture · Sustainability**
 
-↓
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Machine+Learning;Computer+Vision+%7C+Predictive+Analytics;Healthcare+AI+%7C+EdTech+%7C+AgriTech;Problem+%E2%86%92+Data+%E2%86%92+Intelligence+%E2%86%92+Impact" />
 
-### INTELLIGENCE
+<br>
 
-↓
-
-### SOFTWARE
-
-↓
-
-### DECISION
-
-↓
-
-### REAL-WORLD IMPACT
+<a href="https://github.com/192424421simats-code">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/bharath-bharath-220782348">
+<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
-**I don't build projects only to demonstrate technology. I build systems around problems that matter.**
+---
+
+## Profile
+
+B.Tech **Artificial Intelligence & Data Science** student at **Saveetha University** with a **9.25 CGPA**, focused on building and deploying intelligent applications using **Machine Learning, Computer Vision, Data Science and Full-Stack Development**.
+
+I approach projects from the problem first — understanding the data, developing the intelligence, building the product and turning predictions into useful decisions.
+
+**5+ real-world problems solved across AI, healthcare, education, agriculture and campus systems.**
+
+---
+
+## What I Build
+
+| Area | Focus |
+|---|---|
+| AI & ML | Prediction · Classification · Intelligent Decision Systems |
+| Computer Vision | Image Understanding · Behavioural Analysis |
+| Data Science | EDA · Feature Engineering · Analytics |
+| Healthcare AI | Risk Prediction · Decision Support |
+| EdTech | Dropout Prediction · Adaptive Learning |
+| AgriTech | Crop Intelligence · Smart Recommendations |
+| Software | Full-Stack Applications · Dashboards · Data Systems |
+
+---
+
+# Featured Work
+
+## EDU-PIVOT
+
+**Intelligent Adaptive Learning & Dropout-Risk Intervention System**
+
+An AI-driven learning platform that analyses **attendance, assessments, engagement and emotional signals** to identify dropout risk and recommend personalized interventions and learning or career pathways.
+
+`AI` `Machine Learning` `Predictive Analytics` `EdTech` `Recommendation Systems`
+
+**Problem → Student Signals → Risk Prediction → Intervention → Learning / Career Pivot**
+
+---
+
+## PediPredict
+
+**Pediatric Dental Cooperation & Anxiety Prediction**
+
+A healthcare ML system that combines **patient responses, facial-expression signals and motion detection** to estimate pediatric dental anxiety and cooperation risk.
+
+`Machine Learning` `Computer Vision` `OpenCV` `TensorFlow` `Healthcare AI`
+
+**Patient Signals → Feature Analysis → ML Prediction → Risk Classification → Clinical Support**
+
+---
+
+## AI Smart Agriculture
+
+**Crop Disease Detection & Farming Decision Support**
+
+An AI-based agriculture system combining **crop images, soil conditions, weather and market information** to support disease detection, irrigation and fertilizer recommendations.
+
+`AI` `Computer Vision` `Machine Learning` `Predictive Analytics`
+
+---
+
+## Smart Medicine & Emergency Pharmacy Finder
+
+**C++ · DSA · Searching · Hashing**
+
+A real-time medicine discovery system designed to locate available medicines and prioritize suitable pharmacies based on **stock, price and emergency priority**.
+
+`C++` `Data Structures` `Searching` `Hashing` `Algorithms`
+
+---
+
+# More Projects
+
+| Project | Focus |
+|---|---|
+| **Hostel OS** | Full-Stack Hostel Management |
+| **Smart Campus** | Campus Operations & Analytics |
+| **AI Food & Grocery Assistant** | Food Recognition & Waste Reduction |
+| **Neer Nilam** | Water & Land Data Analysis |
+| **Smart Blood Donation System** | Donor & Blood-Bank Matching |
+
+---
+
+# Technical Stack
+
+### Languages
+
+`Python` `C++` `C` `Java` `JavaScript` `SQL`
+
+### AI / ML
+
+`Scikit-learn` `TensorFlow` `Keras` `OpenCV` `NLP` `Predictive Modelling`
+
+### Data & Analytics
+
+`Pandas` `NumPy` `Power BI` `Excel` `Matplotlib` `EDA`
+
+### Development
+
+`React` `Node.js` `MongoDB` `MySQL` `Firebase`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `Jupyter` `Google Colab` `Vercel`
+
+---
+
+# Certifications & Innovation
+
+**Microsoft Azure AI Engineer Associate**  
+**DeepLearning.AI Certification**  
+**Salesforce Trailhead — LLM & AI Training**  
+**Hugging Face — Deep Reinforcement Learning & NLP**
+
+Hackathon exposure: **MGR University · Bengaluru AI · Gen AI Hackathon · Prompts War**
+
+---
+
+# Engineering Philosophy
+
+<div align="center">
+
+### PROBLEM → DATA → INTELLIGENCE → PRODUCT → IMPACT
+
+</div>
+
+I don't build projects simply to demonstrate technology.
+
+**I build systems around problems that matter.**
+
+---
+
+# GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=192424421simats-code&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=6366F1&icon_color=7C3AED&text_color=64748B"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=192424421simats-code&layout=compact&hide_border=true&theme=transparent&title_color=6366F1&text_color=64748B"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=192424421simats-code&bg_color=ffffff00&color=64748B&line=6366F1&point=7C3AED&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### LEARN · BUILD · TEST · IMPROVE
+
+**Exploring AI. Building useful systems. Solving real problems.**
+
+</div>
